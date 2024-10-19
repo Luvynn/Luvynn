@@ -1,9 +1,16 @@
-# ![Welcome](welcome-header.gif)
+<h1 align="center">
+  <img src="welcome-header.gif" alt="Welcome to My GitHub Profile" width="600">
+</h1>
 
 I love code ![Cat Typing](cat-typing.gif) and unicorns ![Unicorn](unicorn.gif)
 
 ![Under Construction](under-construction.gif)
 
-![Hits Today](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo) ![Windows 95](https://img.shields.io/badge/Windows-95-blue.svg) ![HTML5](https://img.shields.io/badge/HTML-5-orange.svg) ![W3C](https://img.shields.io/badge/W3C-Valid-green.svg)
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo" alt="Hits Today">
+  <img src="https://img.shields.io/badge/Windows-95-blue.svg" alt="Windows 95">
+  <img src="https://img.shields.io/badge/HTML-5-orange.svg" alt="HTML5">
+  <img src="https://img.shields.io/badge/W3C-Valid-green.svg" alt="W3C Valid">
+</p>
 
 ![Flames](flames.gif)
