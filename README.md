@@ -2,7 +2,7 @@
   <img src="welcome-header.gif" alt="Welcome to My GitHub Profile" width="800">
 </h1>
 
-I love code ![Cat Typing](cat-typing.gif) and unicorns ![Unicorn](unicorn.gif)
+I love to code ![Cat Typing](cat-typing.gif) and unicorns ![Unicorn](unicorn.gif)
 
 ![Under Construction](under-construction.gif)
 
